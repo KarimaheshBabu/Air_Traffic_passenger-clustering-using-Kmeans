@@ -12,8 +12,13 @@ CRISP-ML(Q) process model describes six phases:
 6. Monitoring and Maintenance
 
 Objective: Maximize the Sales 
+
 Constraints: Minimize the Customer Retention
+
 Success Criteria: 
+
 Business Success Criteria: Increase the Sales by 10% to 12% by targeting cross-selling opportunities on current customers.
+
 ML Success Criteria: Achieve a Silhouette coefficient of at least 0.6
+
 Economic Success Criteria: The insurance company will see an increase in revenues by at least 8% 
