@@ -26,3 +26,5 @@ Achieve a Silhouette coefficient of at least 0.6
 
 # Economic Success Criteria: 
 The insurance company will see an increase in revenues by at least 8% 
+# Follow me on LinkedIn
+www.linkedin.com/in/kari-mahesh-babu-54980a20a
