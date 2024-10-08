@@ -16,7 +16,7 @@ Objective: Maximize the Sales
 
 Constraints: Minimize the Customer Retention
 
-Success Criteria: 
+# Success Criteria: 
 
 # Business Success Criteria: 
 Increase the Sales by 10% to 12% by targeting cross-selling opportunities on current customers.
