@@ -1,4 +1,4 @@
-# Air_Traffic_passenger-using-Kmeans Clustering
+# Air_Traffic_passenger_using_Kmeans Clustering
 
 # Problem Statements:
 Global air travel has seen an upward trend in recent times. The maintenance of operational efficiency and maximizing profitability are crucial for airlines and airport authorities. Businesses need to optimize airline and terminal operations to enhance passenger satisfaction, improve turnover rates, and increase overall revenue. 
